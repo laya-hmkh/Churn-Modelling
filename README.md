@@ -1,5 +1,3 @@
-# Churn-Modelling
-
 # Customer Churn Prediction with Artificial Neural Network
 
 This repository contains the code for building an Artificial Neural Network (ANN) to predict customer churn. The model is trained on a dataset of customer information and aims to identify customers who are likely to leave a service or product.
